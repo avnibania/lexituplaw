@@ -1,0 +1,9 @@
+D:\Source\alifery\connect-alifery\src\Alifery.Aligo.BusinessEntities\bin\Release\netcoreapp2.1\Alifery.Aligo.BusinessEntities.deps.json
+D:\Source\alifery\connect-alifery\src\Alifery.Aligo.BusinessEntities\bin\Release\netcoreapp2.1\Alifery.Aligo.BusinessEntities.dll
+D:\Source\alifery\connect-alifery\src\Alifery.Aligo.BusinessEntities\bin\Release\netcoreapp2.1\Alifery.Aligo.BusinessEntities.pdb
+D:\Source\alifery\connect-alifery\src\Alifery.Aligo.BusinessEntities\obj\Release\netcoreapp2.1\Alifery.Aligo.BusinessEntities.csprojAssemblyReference.cache
+D:\Source\alifery\connect-alifery\src\Alifery.Aligo.BusinessEntities\obj\Release\netcoreapp2.1\Alifery.Aligo.BusinessEntities.csproj.CoreCompileInputs.cache
+D:\Source\alifery\connect-alifery\src\Alifery.Aligo.BusinessEntities\obj\Release\netcoreapp2.1\Alifery.Aligo.BusinessEntities.AssemblyInfoInputs.cache
+D:\Source\alifery\connect-alifery\src\Alifery.Aligo.BusinessEntities\obj\Release\netcoreapp2.1\Alifery.Aligo.BusinessEntities.AssemblyInfo.cs
+D:\Source\alifery\connect-alifery\src\Alifery.Aligo.BusinessEntities\obj\Release\netcoreapp2.1\Alifery.Aligo.BusinessEntities.dll
+D:\Source\alifery\connect-alifery\src\Alifery.Aligo.BusinessEntities\obj\Release\netcoreapp2.1\Alifery.Aligo.BusinessEntities.pdb
